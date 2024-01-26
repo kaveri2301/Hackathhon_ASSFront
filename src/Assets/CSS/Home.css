@@ -1,0 +1,7 @@
+.homebtn{
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    transform: translate(-10%, -10%);
+    width: 100px;
+}
